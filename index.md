@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+Hi, there I'm jellybean and welcome to my no styled blog page.
 
-Maybe say a some things about yourself.
+My designs skills suck so i'm just writing it normally without any fancy animations or css.
 
-Or maybe what you plan to blog about.
+I mostly blog in a journal kind of style so you dont find any kind of professional styled blog posts or stuff. 
+
+
+
+
